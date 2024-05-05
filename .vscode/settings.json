@@ -1,6 +1,32 @@
 {
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  }
+    "source.fixAll.eslint": "explicit"
+  },
+  "cSpell.words": [
+    "Ação",
+    "adicionado",
+    "adicionar",
+    "Antigo",
+    "Aventura",
+    "Carrinho",
+    "categoria",
+    "Comprar",
+    "Esportes",
+    "FIFA",
+    "Fundo",
+    "imagem",
+    "itens",
+    "jogo",
+    "jogos",
+    "plataformas",
+    "preco",
+    "Produto",
+    "Produtos",
+    "Roboto",
+    "Secundaria",
+    "Texto",
+    "tseslint",
+    "Witcher"
+  ]
 }
